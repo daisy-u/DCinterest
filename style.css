@@ -1,8 +1,14 @@
 .center-title {
     position: absolute;
-    top: 50%;
-    bottom: 50%;
-    translate: (-50%, -50%);
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    top: 5%;
+    left: 30%;
+    bottom: 10%;
+    color: white;
+    font-family: sans-serif;
+    z-index: 100;
+}
+
+.navbar-nav .mr-auto {
+    display: flex;
+    justify-content: left;
 }
